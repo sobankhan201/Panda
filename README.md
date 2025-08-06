@@ -97,12 +97,3 @@ Copy
 Edit
 
 ---
-
-Let me know if you'd like to tailor this for a specific pandas project or include project-specific examples!
-
-
-
-Ask ChatGPT
-
-
-
